@@ -6,7 +6,7 @@ Hi there! a fun fact about me is I am also a snowboard instructor who loves data
 	
 2. explaination说太少解释不清，说太多也不合适，特别是教小孩时，越简单越好。第三天考核前我把所有教学内容的what，why，how用我自己的话归纳到了这里。
 	
-3. demo没做好不要紧张，承认自己没做好，然后大大方方给学生再做一次就行，尽量把动作做夸张！考官给我们的反馈是demo做的越夸张越好
+3. demo没做好不要紧张，承认自己没做好，然后大大方方给学生再做一次就行，尽量把动作做夸张！我的考官给我们组的建议是教学demo做的越夸张越好
 	
 4. feedback一定要积极，给每个人personal feedback更好。即使你没揪出学生什么大问题，你也可以夸夸它，增加互动，比如说：beutiful turn! I like ur neutral position! good job! 让学生增加信心，从而享受你的课。
    
