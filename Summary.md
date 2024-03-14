@@ -1,4 +1,36 @@
+## Sliding
+Main goal: we want to be comfortable standing on the snowboard while sliding with one foot attached.
+以下基本上都是教练教一遍就记住了，解释what和how的时候直接做示范，why可以套上面的main goal, and get familiar with the neutral position。这一部分需要一直大声地给学生反馈，因为活动的范围不大，尽量让所有人都能听清楚你说话。Feedback话术：nice/beautiful turn! I like your neutral position! Look forward! 
 
+1) “Push-Push-Glide” 
+2) Straight Running 
+3) Experiment With Varied Body Positions 加上游戏进行示范
+4) Toe/Heel Drag 
+5) J-Turns
+
+## Basics
+Main goal: we want to learn how to use the equipment, and be comfortable with moving around on the snowboard with one foot attached.
+
+1. Introductions 
+活跃气氛，不要冷场了
+Introduce yourself, why do you want to take the CASI course
+
+2. Equipment: Parts Of The Board 
+介绍板的前后刃，介绍板头板尾巴，教学生区分左脚前右脚前
+Two edges, nose and tail of the snowboard, goofy or regular? Put the foot that you use to kick the ball at the back of the snowboard.  
+
+3. Attaching The Front Foot Equipment 
+教学生安全穿板，使用binding
+Clear the snow first, heel strap and toe strap, use the buckle to tie it up and release.
+
+4. Familiarity & Mobility 
+拉着学生动一动走一走
+
+5. “The Neutral Position” 
+很重要，贯穿整节课，建议自己总结一套关于这个的话术背下来，所以在这里我就不总结了
+
+6. Skating Climbing & Descending
+ 这个就是穿着雪板带学生爬爬小坡，看一遍教练教就会了
 
 ## Control
 Main goal: we need to learn to control the direction and speed with both feet attached to the snowboard. 主要强调控制身体从而对刃的控制
@@ -88,9 +120,9 @@ Main goal: explore the mountain safely.
 - How: we need to rotate our hips toward front foot to initiate beginner turn. When we approach the fall line, try to bend our hips, knees, and ankles to change to a new edge. Remember to traverse across the slope with edging to control the speed.
 
 4. Speed = Shape + Size + Slope
-If we want to decrease our speed, we need to increase the edge angle.
-To reduce speed on steeper slopes, make rounder “closed” turns. 
-To increase or maintain speed on flatter terrain, create larger, more “open” turns.
+- If we want to decrease our speed, we need to increase the edge angle.
+- To reduce speed on steeper slopes, make rounder “closed” turns. 
+- To increase or maintain speed on flatter terrain, create larger, more “open” turns.
 
 5. Sliding 360’s
 - What: rotate 360 degrees while sliding 
